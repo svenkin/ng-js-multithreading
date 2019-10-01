@@ -1,4 +1,4 @@
-##Examples for multithreading in JavaScript 
+## Examples for multithreading in JavaScript 
 The output of every example will be written onto the console. Use your browser of choice to inspect web-worker. 
 
 ### Angular 
